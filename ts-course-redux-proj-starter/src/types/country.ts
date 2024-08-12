@@ -30,7 +30,7 @@ export type Country = {
 
 type Info = {
   title: string;
-  description: string[];
+  description: string;
 };
 
 export type CountryInfo = {
